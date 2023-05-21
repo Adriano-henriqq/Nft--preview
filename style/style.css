@@ -88,7 +88,7 @@ body{
 }
 
 .container__valor--desc::before{
-    content: url(./images/icon-ethereum.svg);
+    content: url(../images/icon-ethereum.svg);
     padding: .5em;
 }
 
@@ -98,7 +98,7 @@ body{
 }
 
 .container__dia::before{
-    content: url(./images/icon-clock.svg);
+    content: url(../images/icon-clock.svg);
     padding: 0 .5em;
 }
 
